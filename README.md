@@ -10,9 +10,9 @@
 
 ## Usage
 
-![](C:\Users\c15jd\AppData\Roaming\marktext\images\2021-02-22-17-38-46-image.png)
+![](C:\Users\c15jd\Desktop\bootcamp\homework\homework1\assets\images\horiseon%20screencapture.JPG)
 
-![](C:\Users\c15jd\AppData\Roaming\marktext\images\2021-02-22-17-39-21-image.png)
+![](C:\Users\c15jd\Desktop\bootcamp\homework\homework1\assets\images\horiseaon%20screencapture2.JPG)
 
 ### Acceptance Criteria
 
@@ -36,13 +36,13 @@ THEN I find a concise, descriptive title
 
 Section id was not included in the original code therefore the code did not work. 
 
-![](C:\Users\c15jd\AppData\Roaming\marktext\images\2021-02-22-17-19-55-image.png)
+![](C:\Users\c15jd\Desktop\bootcamp\homework\homework1\assets\images\sectionid.JPG)
 
 
 
 <i> Consolidated sections </i> (in red underline)
 
-![](C:\Users\c15jd\AppData\Roaming\marktext\images\2021-02-22-17-35-44-image.png)
+![](C:\Users\c15jd\Desktop\bootcamp\homework\homework1\assets\images\benefit.JPG)
 
 
 
