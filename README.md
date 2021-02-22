@@ -10,7 +10,7 @@
 
 ## Usage
 
-![](./assets/images/screencapture.jpg)
+![](./assets/images/homepage.jpg)
 
 ![](./assets/images/screencapture2.JPG)
 
