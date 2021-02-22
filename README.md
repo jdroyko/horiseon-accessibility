@@ -10,9 +10,9 @@
 
 ## Usage
 
-![](~.\assets\images\screencapture.jpg)
+![](./assets/images/screencapture.jpg)
 
-![](~.\assets\images\hscreencapture2.JPG)
+![](./assets/images/screencapture2.JPG)
 
 ### Acceptance Criteria
 
@@ -36,13 +36,13 @@ THEN I find a concise, descriptive title
 
 Section id was not included in the original code therefore the code did not work. 
 
-![](C:\Users\c15jd\Desktop\bootcamp\homework\homework1\assets\images\sectionid.JPG)
+![](./assets/images/sectionid.JPG)
 
 
 
 <i> Consolidated sections </i> (in red underline)
 
-![](C:\Users\c15jd\Desktop\bootcamp\homework\homework1\assets\images\benefit.JPG)
+![](./assets/images/benefit.JPG)
 
 
 
