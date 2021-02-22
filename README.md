@@ -10,7 +10,7 @@
 
 ## Usage
 
-![](~.\assets\images\horiseaon screencapture.jpg)
+![](~.\assets\images\horiseaon%20screencapture.jpg)
 
 ![](C:\Users\c15jd\Desktop\bootcamp\homework\homework1\assets\images\horiseaon%20screencapture2.JPG)
 
